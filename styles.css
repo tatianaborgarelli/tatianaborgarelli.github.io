@@ -1,4 +1,17 @@
 *{
     margin: 0;
     padding: 0;
+
+}
+header {
+    display: flex;
+    flex-direction: row;
+}
+.foto_perfil {
+    width: 200px;
+    height: 234px;
+}
+.about_section {
+    background-color: grey;
+    padding: 3%;
 }
